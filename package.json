@@ -5,7 +5,7 @@
   "repository": "https://github.com/mkusaka/open-new-window-chrome-extension.git",
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
-  "packageManager": "pnpm@9.15.9",
+  "packageManager": "pnpm@10.16.1",
   "dependencies": {},
   "devDependencies": {
     "@crxjs/vite-plugin": "2.2.0",
