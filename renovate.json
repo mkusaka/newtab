@@ -1,4 +1,0 @@
-{
-  "extends": ["config:best-practices"],
-  "rangeStrategy": "bump"
-}
